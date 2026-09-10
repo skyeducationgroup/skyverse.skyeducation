@@ -1,0 +1,1667 @@
+[
+  {
+    "sNo": 1,
+    "date": "12/12/2025",
+    "time": "30/12/1899",
+    "session": "01/01/2026",
+    "studentName": "Kunal Gupta",
+    "mobileNumber": "8800560894",
+    "universityName": "UU",
+    "course": "MBA",
+    "feesType": "Semester",
+    "paymentMode": "UPI",
+    "amountPaid": 24500,
+    "dateOfAdmission": "2025-12-12",
+    "counsellorName": "Nishu",
+    "leadSource": "DU Sol",
+    "remarks": "document",
+    "status": "Admission Done",
+    "tags": [
+      "DU Sol Lead"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* July 2026\n*Student Name:* Bunty\n*Mobile Number:* 9289062707\n\n*University:* MUJ\n*Course:* MBA\n\n*Fees Type:* Part Payment\n*Payment Mode:* UPI\n*Amount Paid:* Rs. 25,000\n\n*Date of Admission:* 2026-06-17\n*Handled By:* Anshika\n*Lead Source:* WhatsApp\n*Remark:* document\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T05:51:18.020Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 2,
+    "date": "25/11/2025",
+    "time": "30/12/1899",
+    "session": "01/01/2026",
+    "studentName": "Riya Kumari",
+    "mobileNumber": "9413328923",
+    "universityName": "Amity",
+    "course": "BA",
+    "feesType": "Semester",
+    "paymentMode": "UPI",
+    "amountPaid": 16500,
+    "dateOfAdmission": "2025-11-25",
+    "counsellorName": "Anshika",
+    "leadSource": "Website",
+    "remarks": "Verification script entry",
+    "status": "Admission Done",
+    "tags": [
+      "Website Lead"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* July 2026\n*Student Name:* Test Student\n*Mobile Number:* 9999999999\n\n*University:* MUJ\n*Course:* MBA\n\n*Fees Type:* One Time\n*Payment Mode:* UPI\n*Amount Paid:* Rs. 65,000\n\n*Date of Admission:* 2026-06-16\n*Handled By:* Anshika\n*Lead Source:* Website\n*Remark:* Verification script entry\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T05:56:22.464Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 3,
+    "date": "24/12/2025",
+    "time": "11:26:22",
+    "session": "01/01/2026",
+    "studentName": "Dhruv singh",
+    "mobileNumber": "8800236152",
+    "universityName": "Amity",
+    "course": "BA",
+    "feesType": "Semester",
+    "paymentMode": "Card",
+    "amountPaid": 14020,
+    "dateOfAdmission": "2025-12-24",
+    "counsellorName": "Nishu",
+    "leadSource": "DU Sol",
+    "remarks": "Bulk import verification A",
+    "status": "Admission Done",
+    "tags": [
+      "DU Sol Lead"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* July 2026\n*Student Name:* Bulk Student A\n*Mobile Number:* 8888888881\n\n*University:* SMU\n*Course:* MCA\n\n*Fees Type:* Semester\n*Payment Mode:* Cash\n*Amount Paid:* Rs. 30,000\n\n*Date of Admission:* 2026-06-16\n*Handled By:* Deepa Gupta\n*Lead Source:* WhatsApp\n*Remark:* Bulk import verification A\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T05:59:24.513Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 4,
+    "date": "23/12/2025",
+    "time": "11:26:22",
+    "session": "01/01/2026",
+    "studentName": "Md. Akhtrul Islam",
+    "mobileNumber": "9717629424",
+    "universityName": "SVSU",
+    "course": "B.LIB",
+    "feesType": "Full Fees",
+    "paymentMode": "online",
+    "amountPaid": 23500,
+    "dateOfAdmission": "2025-12-23",
+    "counsellorName": "Anshika",
+    "leadSource": "Reference",
+    "remarks": "Bulk import verification B",
+    "status": "Admission Done",
+    "tags": [
+      "Referral"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* Batch 2026\n*Student Name:* Bulk Student B\n*Mobile Number:* 8888888882\n\n*University:* GLA\n*Course:* BBA\n\n*Fees Type:* Part Payment\n*Payment Mode:* Credit Card\n*Amount Paid:* Rs. 15,000\n\n*Date of Admission:* 2026-06-16\n*Handled By:* Anshika\n*Lead Source:* Reference\n*Remark:* Bulk import verification B\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T05:59:24.112Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 5,
+    "date": "21/12/2025",
+    "time": "30/12/1899",
+    "session": "01/01/2026",
+    "studentName": "Dipesh Balkrishna Pednekar",
+    "mobileNumber": "9870232360",
+    "universityName": "MAHE",
+    "course": "MBA",
+    "feesType": "Full Fees",
+    "paymentMode": "No Cost EMI",
+    "amountPaid": 292000,
+    "dateOfAdmission": "2025-12-21",
+    "counsellorName": "Anshika",
+    "leadSource": "Website",
+    "remarks": "Verification script entry",
+    "status": "Admission Done",
+    "tags": [
+      "High Value",
+      "Website Lead"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* 01/07/2026\n*Student Name:* Ram\n*Mobile Number:* 8888888888\n\n*University:* LPU\n*Course:* MBA\n\n*Fees Type:* One Time\n*Payment Mode:* UPI\n*Amount Paid:* Rs. 10,000\n\n*Date of Admission:* 2026-06-16\n*Handled By:* Anshika\n*Lead Source:* Website\n*Remark:* Verification script entry\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T06:08:19.148Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 6,
+    "date": "24/12/2025",
+    "time": "30/12/1899",
+    "session": "01/01/2026",
+    "studentName": "Anjali Anand",
+    "mobileNumber": "9953784413",
+    "universityName": "GLA",
+    "course": "MBA",
+    "feesType": "Semester",
+    "paymentMode": "UPI",
+    "amountPaid": 25750,
+    "dateOfAdmission": "2025-12-24",
+    "counsellorName": "Anshika",
+    "leadSource": "Reference",
+    "remarks": "",
+    "status": "Admission Done",
+    "tags": [
+      "Referral"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* 01/01/2026\n*Student Name:* Anjali Anand\n*Mobile Number:* 9953784413\n\n*University:* GLA\n*Course:* MBA\n\n*Fees Type:* Semester\n*Payment Mode:* UPI\n*Amount Paid:* Rs. 25,750\n\n*Date of Admission:* 2025-12-24\n*Handled By:* Anshika\n*Lead Source:* Reference\n*Remark:* N/A\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T06:14:53.133Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 7,
+    "date": "02/01/2026",
+    "time": "30/12/1899",
+    "session": "01/01/2026",
+    "studentName": "Ashutosh Mishra",
+    "mobileNumber": "9670097987",
+    "universityName": "SMU",
+    "course": "MBA",
+    "feesType": "Yearly",
+    "paymentMode": "online",
+    "amountPaid": 52250,
+    "dateOfAdmission": "2026-01-02",
+    "counsellorName": "Anshika",
+    "leadSource": "Reference",
+    "remarks": "",
+    "status": "Admission Done",
+    "tags": [
+      "High Value",
+      "Referral"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* 01/01/2026\n*Student Name:* Ashutosh Mishra\n*Mobile Number:* 9670097987\n\n*University:* SMU\n*Course:* MBA\n\n*Fees Type:* Yearly\n*Payment Mode:* online\n*Amount Paid:* Rs. 52,250\n\n*Date of Admission:* 2026-01-02\n*Handled By:* Anshika\n*Lead Source:* Reference\n*Remark:* N/A\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T06:14:52.569Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 8,
+    "date": "09/01/2026",
+    "time": "30/12/1899",
+    "session": "01/01/2026",
+    "studentName": "Praveen Kumar",
+    "mobileNumber": "8930269693",
+    "universityName": "MUJ",
+    "course": "BCA",
+    "feesType": "Semester",
+    "paymentMode": "online",
+    "amountPaid": 20250,
+    "dateOfAdmission": "2026-01-09",
+    "counsellorName": "Anshika",
+    "leadSource": "Feeding University",
+    "remarks": "",
+    "status": "Admission Done",
+    "tags": [
+      "Feeding University Lead"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* 01/01/2026\n*Student Name:* Praveen Kumar\n*Mobile Number:* 8930269693\n\n*University:* MUJ\n*Course:* BCA\n\n*Fees Type:* Semester\n*Payment Mode:* online\n*Amount Paid:* Rs. 20,250\n\n*Date of Admission:* 2026-01-09\n*Handled By:* Anshika\n*Lead Source:* Feeding University\n*Remark:* N/A\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T06:14:52.060Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 9,
+    "date": "15/01/2026",
+    "time": "30/12/1899",
+    "session": "01/01/2026",
+    "studentName": "Mohini Tiwari",
+    "mobileNumber": "7522025733",
+    "universityName": "SMU",
+    "course": "MBA",
+    "feesType": "Semester",
+    "paymentMode": "online",
+    "amountPaid": 27500,
+    "dateOfAdmission": "2026-01-15",
+    "counsellorName": "Anshika",
+    "leadSource": "Reference",
+    "remarks": "",
+    "status": "Admission Done",
+    "tags": [
+      "Referral"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* 01/01/2026\n*Student Name:* Mohini Tiwari\n*Mobile Number:* 7522025733\n\n*University:* SMU\n*Course:* MBA\n\n*Fees Type:* Semester\n*Payment Mode:* online\n*Amount Paid:* Rs. 27,500\n\n*Date of Admission:* 2026-01-15\n*Handled By:* Anshika\n*Lead Source:* Reference\n*Remark:* N/A\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T06:14:51.130Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 10,
+    "date": "17/01/2026",
+    "time": "30/12/1899",
+    "session": "01/01/2026",
+    "studentName": "Kavita Kumari",
+    "mobileNumber": "7838507431",
+    "universityName": "NIU",
+    "course": "MBA",
+    "feesType": "Semester",
+    "paymentMode": "online",
+    "amountPaid": 22125,
+    "dateOfAdmission": "2026-01-17",
+    "counsellorName": "Anshika",
+    "leadSource": "Reference",
+    "remarks": "",
+    "status": "Admission Done",
+    "tags": [
+      "Referral"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* 01/01/2026\n*Student Name:* Kavita Kumari\n*Mobile Number:* 7838507431\n\n*University:* NIU\n*Course:* MBA\n\n*Fees Type:* Semester\n*Payment Mode:* online\n*Amount Paid:* Rs. 22,125\n\n*Date of Admission:* 2026-01-17\n*Handled By:* Anshika\n*Lead Source:* Reference\n*Remark:* N/A\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T06:14:50.263Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 11,
+    "date": "28/01/2026",
+    "time": "30/12/1899",
+    "session": "01/01/2026",
+    "studentName": "Sheetal",
+    "mobileNumber": "9654344880",
+    "universityName": "Amity",
+    "course": "BA",
+    "feesType": "Full Fees",
+    "paymentMode": "No Cost EMI",
+    "amountPaid": 99000,
+    "dateOfAdmission": "2026-01-28",
+    "counsellorName": "Anshika",
+    "leadSource": "DU Sol",
+    "remarks": "",
+    "status": "Admission Done",
+    "tags": [
+      "High Value",
+      "DU Sol Lead"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* 01/01/2026\n*Student Name:* Sheetal\n*Mobile Number:* 9654344880\n\n*University:* Amity\n*Course:* BA\n\n*Fees Type:* Full Fees\n*Payment Mode:* No Cost EMI\n*Amount Paid:* Rs. 99,000\n\n*Date of Admission:* 2026-01-28\n*Handled By:* Anshika\n*Lead Source:* DU Sol\n*Remark:* N/A\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T06:14:54.169Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 12,
+    "date": "07/02/2026",
+    "time": "30/12/1899",
+    "session": "01/01/2026",
+    "studentName": "Gurpreet Singh Mander",
+    "mobileNumber": "81684556018307484005",
+    "universityName": "NIU",
+    "course": "MBA",
+    "feesType": "Full Fees",
+    "paymentMode": "No Cost EMI",
+    "amountPaid": 88500,
+    "dateOfAdmission": "2026-02-07",
+    "counsellorName": "Anshika",
+    "leadSource": "Meta ads",
+    "remarks": "",
+    "status": "Admission Done",
+    "tags": [
+      "High Value",
+      "Meta ads Lead"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* 01/01/2026\n*Student Name:* Gurpreet Singh Mander\n*Mobile Number:* 81684556018307484005\n\n*University:* NIU\n*Course:* MBA\n\n*Fees Type:* Full Fees\n*Payment Mode:* No Cost EMI\n*Amount Paid:* Rs. 88,500\n\n*Date of Admission:* 2026-02-07\n*Handled By:* Anshika\n*Lead Source:* Meta ads\n*Remark:* N/A\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T06:14:46.423Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 13,
+    "date": "18/02/2026",
+    "time": "30/12/1899",
+    "session": "01/01/2026",
+    "studentName": "KM Mantasha Khatoon",
+    "mobileNumber": "8588059820",
+    "universityName": "NIU",
+    "course": "BBA",
+    "feesType": "Semester",
+    "paymentMode": "UPI",
+    "amountPaid": 13500,
+    "dateOfAdmission": "2026-02-18",
+    "counsellorName": "Anshika",
+    "leadSource": "Meta ads",
+    "remarks": "",
+    "status": "Admission Done",
+    "tags": [
+      "Meta ads Lead"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* 01/01/2026\n*Student Name:* KM Mantasha Khatoon\n*Mobile Number:* 8588059820\n\n*University:* NIU\n*Course:* BBA\n\n*Fees Type:* Semester\n*Payment Mode:* UPI\n*Amount Paid:* Rs. 13,500\n\n*Date of Admission:* 2026-02-18\n*Handled By:* Anshika\n*Lead Source:* Meta ads\n*Remark:* N/A\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T06:14:45.818Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 14,
+    "date": "18/02/2026",
+    "time": "30/12/1899",
+    "session": "01/01/2026",
+    "studentName": "Ashish Varshney",
+    "mobileNumber": "9149205929",
+    "universityName": "Amity",
+    "course": "MBA",
+    "feesType": "Semester",
+    "paymentMode": "UPI",
+    "amountPaid": 42280,
+    "dateOfAdmission": "2026-02-18",
+    "counsellorName": "Anshika",
+    "leadSource": "Shiksha",
+    "remarks": "",
+    "status": "Admission Done",
+    "tags": [
+      "Shiksha Lead"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* 01/01/2026\n*Student Name:* Ashish Varshney\n*Mobile Number:* 9149205929\n\n*University:* Amity\n*Course:* MBA\n\n*Fees Type:* Semester\n*Payment Mode:* UPI\n*Amount Paid:* Rs. 42,280\n\n*Date of Admission:* 2026-02-18\n*Handled By:* Anshika\n*Lead Source:* Shiksha\n*Remark:* N/A\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T06:14:46.422Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 15,
+    "date": "26/02/2026",
+    "time": "30/12/1899",
+    "session": "01/01/2026",
+    "studentName": "Bunty Singh",
+    "mobileNumber": "9953338199",
+    "universityName": "MUJ",
+    "course": "BCA",
+    "feesType": "Full Fees",
+    "paymentMode": "No Cost EMI",
+    "amountPaid": 135000,
+    "dateOfAdmission": "2026-02-26",
+    "counsellorName": "Bunty",
+    "leadSource": "Reference",
+    "remarks": "",
+    "status": "Admission Done",
+    "tags": [
+      "High Value",
+      "Referral"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* 01/01/2026\n*Student Name:* Bunty Singh\n*Mobile Number:* 9953338199\n\n*University:* MUJ\n*Course:* BCA\n\n*Fees Type:* Full Fees\n*Payment Mode:* No Cost EMI\n*Amount Paid:* Rs. 1,35,000\n\n*Date of Admission:* 2026-02-26\n*Handled By:* Bunty\n*Lead Source:* Reference\n*Remark:* N/A\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T06:14:45.152Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 16,
+    "date": "11/03/2026",
+    "time": "30/12/1899",
+    "session": "01/01/2026",
+    "studentName": "Sonali Kanyal",
+    "mobileNumber": "9870276897",
+    "universityName": "SVSU",
+    "course": "MA",
+    "feesType": "Yearly",
+    "paymentMode": "UPI",
+    "amountPaid": 15000,
+    "dateOfAdmission": "2026-03-11",
+    "counsellorName": "Anshika",
+    "leadSource": "B.Ed Enquiries",
+    "remarks": "",
+    "status": "Admission Done",
+    "tags": [
+      "B.Ed Enquiries Lead"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* 01/01/2026\n*Student Name:* Sonali Kanyal\n*Mobile Number:* 9870276897\n\n*University:* SVSU\n*Course:* MA\n\n*Fees Type:* Yearly\n*Payment Mode:* UPI\n*Amount Paid:* Rs. 15,000\n\n*Date of Admission:* 2026-03-11\n*Handled By:* Anshika\n*Lead Source:* B.Ed Enquiries\n*Remark:* N/A\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T06:14:44.369Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 17,
+    "date": "25/03/2026",
+    "time": "30/12/1899",
+    "session": "01/01/2026",
+    "studentName": "KM Jyoti Kumari",
+    "mobileNumber": "8650749447",
+    "universityName": "SVSU",
+    "course": "MA",
+    "feesType": "Yearly",
+    "paymentMode": "UPI",
+    "amountPaid": 18000,
+    "dateOfAdmission": "2026-03-25",
+    "counsellorName": "Anshika",
+    "leadSource": "Reference",
+    "remarks": "",
+    "status": "Admission Done",
+    "tags": [
+      "Referral"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* 01/01/2026\n*Student Name:* KM Jyoti Kumari\n*Mobile Number:* 8650749447\n\n*University:* SVSU\n*Course:* MA\n\n*Fees Type:* Yearly\n*Payment Mode:* UPI\n*Amount Paid:* Rs. 18,000\n\n*Date of Admission:* 2026-03-25\n*Handled By:* Anshika\n*Lead Source:* Reference\n*Remark:* N/A\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T06:14:43.288Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 18,
+    "date": "01/04/2026",
+    "time": "30/12/1899",
+    "session": "01/01/2026",
+    "studentName": "Ankit Kumar",
+    "mobileNumber": "8130147597",
+    "universityName": "Amity",
+    "course": "BCA",
+    "feesType": "Semester",
+    "paymentMode": "UPI",
+    "amountPaid": 21300,
+    "dateOfAdmission": "2026-04-01",
+    "counsellorName": "Anshika",
+    "leadSource": "Reference",
+    "remarks": "",
+    "status": "Admission Done",
+    "tags": [
+      "Referral"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* 01/01/2026\n*Student Name:* Ankit Kumar\n*Mobile Number:* 8130147597\n\n*University:* Amity\n*Course:* BCA\n\n*Fees Type:* Semester\n*Payment Mode:* UPI\n*Amount Paid:* Rs. 21,300\n\n*Date of Admission:* 2026-04-01\n*Handled By:* Anshika\n*Lead Source:* Reference\n*Remark:* N/A\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T06:14:39.955Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 19,
+    "date": "30/12/2025",
+    "time": "30/12/1899",
+    "session": "Batch 2026",
+    "studentName": "Chitrangada Kumari Solanki",
+    "mobileNumber": "8233721557",
+    "universityName": "Haryana",
+    "course": "B.Ed",
+    "feesType": "Full Fees",
+    "paymentMode": "UPI",
+    "amountPaid": 10000,
+    "dateOfAdmission": "2025-12-30",
+    "counsellorName": "Anshika",
+    "leadSource": "WhatsApp",
+    "remarks": "",
+    "status": "Part Payment",
+    "tags": [
+      "WhatsApp Lead"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* Batch 2026\n*Student Name:* Chitrangada Kumari Solanki\n*Mobile Number:* 8233721557\n\n*University:* Haryana\n*Course:* B.Ed\n\n*Fees Type:* Full Fees\n*Payment Mode:* UPI\n*Amount Paid:* Rs. 1,15,000\n\n*Date of Admission:* 2025-12-30\n*Handled By:* Anshika\n*Lead Source:* WhatsApp\n*Remark:* N/A\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T11:46:10.352Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 20,
+    "date": "25/02/2026",
+    "time": "30/12/1899",
+    "session": "Batch 2026",
+    "studentName": "Pallavi Gupta",
+    "mobileNumber": "9625225649",
+    "universityName": "Haryana",
+    "course": "B.Ed",
+    "feesType": "Full Fees",
+    "paymentMode": "UPI",
+    "amountPaid": 10000,
+    "dateOfAdmission": "2026-02-25",
+    "counsellorName": "Anshika",
+    "leadSource": "Reference",
+    "remarks": "",
+    "status": "Part Payment",
+    "tags": [
+      "Referral"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* Batch 2026\n*Student Name:* Pallavi Gupta\n*Mobile Number:* 9625225649\n\n*University:* Haryana\n*Course:* B.Ed\n\n*Fees Type:* Full Fees\n*Payment Mode:* UPI\n*Amount Paid:* Rs. 1,15,000\n\n*Date of Admission:* 2026-02-25\n*Handled By:* Anshika\n*Lead Source:* Reference\n*Remark:* N/A\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T11:46:00.296Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 21,
+    "date": "11/03/2026",
+    "time": "30/12/1899",
+    "session": "Batch 2026",
+    "studentName": "Nitisha",
+    "mobileNumber": "7065276113",
+    "universityName": "Haryana",
+    "course": "B.Ed",
+    "feesType": "Full Fees",
+    "paymentMode": "UPI",
+    "amountPaid": 10000,
+    "dateOfAdmission": "2026-03-11",
+    "counsellorName": "Anshika",
+    "leadSource": "Reference",
+    "remarks": "",
+    "status": "Part Payment",
+    "tags": [
+      "Referral"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* Batch 2026\n*Student Name:* Nitisha\n*Mobile Number:* 7065276113\n\n*University:* Haryana\n*Course:* B.Ed\n\n*Fees Type:* Full Fees\n*Payment Mode:* UPI\n*Amount Paid:* Rs. 1,15,000\n\n*Date of Admission:* 2026-03-11\n*Handled By:* Anshika\n*Lead Source:* Reference\n*Remark:* N/A\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T11:45:43.221Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 22,
+    "date": "25/03/2026",
+    "time": "30/12/1899",
+    "session": "Batch 2026",
+    "studentName": "Shishir Mehrotra",
+    "mobileNumber": "9953591776",
+    "universityName": "Uttar Pradesh",
+    "course": "B.Ed",
+    "feesType": "Full Fees",
+    "paymentMode": "UPI",
+    "amountPaid": 10000,
+    "dateOfAdmission": "2026-03-25",
+    "counsellorName": "Anshika",
+    "leadSource": "Website",
+    "remarks": "",
+    "status": "Part Payment",
+    "tags": [
+      "Website Lead"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* Batch 2026\n*Student Name:* Shishir Mehrotra\n*Mobile Number:* 9953591776\n\n*University:* Uttar Pradesh\n*Course:* B.Ed\n\n*Fees Type:* Full Fees\n*Payment Mode:* UPI\n*Amount Paid:* Rs. 1,10,000\n\n*Date of Admission:* 2026-03-25\n*Handled By:* Anshika\n*Lead Source:* Website\n*Remark:* N/A\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T11:45:30.527Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 23,
+    "date": "03/04/2026",
+    "time": "30/12/1899",
+    "session": "Batch 2026",
+    "studentName": "Priyanka jain",
+    "mobileNumber": "9671741083",
+    "universityName": "Uttar Pradesh",
+    "course": "B.Ed",
+    "feesType": "Full Fees",
+    "paymentMode": "UPI",
+    "amountPaid": 10000,
+    "dateOfAdmission": "2026-04-03",
+    "counsellorName": "Anshika",
+    "leadSource": "Website",
+    "remarks": "",
+    "status": "Part Payment",
+    "tags": [
+      "Website Lead"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* Batch 2026\n*Student Name:* Priyanka jain\n*Mobile Number:* 9671741083\n\n*University:* Uttar Pradesh\n*Course:* B.Ed\n\n*Fees Type:* Full Fees\n*Payment Mode:* UPI\n*Amount Paid:* Rs. 1,10,000\n\n*Date of Admission:* 2026-04-03\n*Handled By:* Anshika\n*Lead Source:* Website\n*Remark:* N/A\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T11:45:16.867Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 24,
+    "date": "21/03/2026",
+    "time": "30/12/1899",
+    "session": "Batch 2026",
+    "studentName": "Sonam Sanoria",
+    "mobileNumber": "9810640989",
+    "universityName": "Haryana",
+    "course": "B.Ed",
+    "feesType": "Full Fees",
+    "paymentMode": "UPI",
+    "amountPaid": 10000,
+    "dateOfAdmission": "2026-03-21",
+    "counsellorName": "Anshika",
+    "leadSource": "Inbound Call",
+    "remarks": "",
+    "status": "Part Payment",
+    "tags": [
+      "Inbound Call Lead"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* Batch 2026\n*Student Name:* Sonam Sanoria\n*Mobile Number:* 9810640989\n\n*University:* Haryana\n*Course:* B.Ed\n\n*Fees Type:* Full Fees\n*Payment Mode:* UPI\n*Amount Paid:* Rs. 1,10,000\n\n*Date of Admission:* 2026-03-21\n*Handled By:* Anshika\n*Lead Source:* Inbound Call\n*Remark:* N/A\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T11:45:01.856Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 25,
+    "date": "09/04/2026",
+    "time": "30/12/1899",
+    "session": "01/01/2026",
+    "studentName": "Sudhanshu",
+    "mobileNumber": "8368566568",
+    "universityName": "Amity",
+    "course": "BCA",
+    "feesType": "Semester",
+    "paymentMode": "UPI",
+    "amountPaid": 21300,
+    "dateOfAdmission": "2026-04-09",
+    "counsellorName": "Anshika",
+    "leadSource": "Reference",
+    "remarks": "",
+    "status": "Admission Done",
+    "tags": [
+      "Referral"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* 01/01/2026\n*Student Name:* Sudhanshu\n*Mobile Number:* 8368566568\n\n*University:* Amity\n*Course:* BCA\n\n*Fees Type:* Semester\n*Payment Mode:* UPI\n*Amount Paid:* Rs. 21,300\n\n*Date of Admission:* 2026-04-09\n*Handled By:* Anshika\n*Lead Source:* Reference\n*Remark:* N/A\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T06:14:34.285Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 26,
+    "date": "10/04/2026",
+    "time": "30/12/1899",
+    "session": "01/01/2026",
+    "studentName": "Kanhaiya Gupta",
+    "mobileNumber": "9045689518",
+    "universityName": "NIU",
+    "course": "MBA",
+    "feesType": "Part Payment",
+    "paymentMode": "UPI",
+    "amountPaid": 6100,
+    "dateOfAdmission": "2026-04-10",
+    "counsellorName": "Anshika",
+    "leadSource": "Meta ads",
+    "remarks": "Refund ProcessStarted",
+    "status": "Refund ProcessStarted",
+    "tags": [
+      "Meta ads Lead"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* 01/01/2026\n*Student Name:* Kanhaiya Gupta\n*Mobile Number:* 9045689518\n\n*University:* NIU\n*Course:* MBA\n\n*Fees Type:* Part Payment\n*Payment Mode:* UPI\n*Amount Paid:* Rs. 6,100\n\n*Date of Admission:* 2026-04-10\n*Handled By:* Anshika\n*Lead Source:* Meta ads\n*Remark:* Refund ProcessStarted\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T11:41:14.524Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 27,
+    "date": "20/04/2026",
+    "time": "30/12/1899",
+    "session": "01/07/2026",
+    "studentName": "Mahi Sharma",
+    "mobileNumber": "8755272757",
+    "universityName": "MUJ",
+    "course": "MBA",
+    "feesType": "Semester",
+    "paymentMode": "UPI",
+    "amountPaid": 38250,
+    "dateOfAdmission": "2026-04-19",
+    "counsellorName": "Anshika",
+    "leadSource": "Website",
+    "remarks": "",
+    "status": "Admission Done",
+    "tags": [
+      "Website Lead"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* 01/07/2026\n*Student Name:* Mahi Sharma\n*Mobile Number:* 8755272757\n\n*University:* MUJ\n*Course:* MBA\n\n*Fees Type:* Semester\n*Payment Mode:* UPI\n*Amount Paid:* Rs. 38,250\n\n*Date of Admission:* 2026-04-19\n*Handled By:* Anshika\n*Lead Source:* Website\n*Remark:* N/A\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T06:14:30.739Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 28,
+    "date": "21/04/2026",
+    "time": "30/12/1899",
+    "session": "01/07/2026",
+    "studentName": "Manoj kumar",
+    "mobileNumber": "7689009708",
+    "universityName": "SMU",
+    "course": "MBA",
+    "feesType": "Part Payment",
+    "paymentMode": "UPI",
+    "amountPaid": 27000,
+    "dateOfAdmission": "2026-04-21",
+    "counsellorName": "Deepa Gupta",
+    "leadSource": "WhatsApp",
+    "remarks": "done",
+    "status": "Admission Done",
+    "tags": [
+      "WhatsApp Lead"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* 01/07/2026\n*Student Name:* Manoj kumar\n*Mobile Number:* 7689009708\n\n*University:* SMU\n*Course:* MBA\n\n*Fees Type:* Part Payment\n*Payment Mode:* UPI\n*Amount Paid:* Rs. 27,000\n\n*Date of Admission:* 2026-04-21\n*Handled By:* Deepa Gupta\n*Lead Source:* WhatsApp\n*Remark:* LMS Pending\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T11:47:04.917Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 29,
+    "date": "30/04/2026",
+    "time": "30/12/1899",
+    "session": "Batch 2026",
+    "studentName": "Swati",
+    "mobileNumber": "9310908338",
+    "universityName": "Haryana",
+    "course": "B.Ed",
+    "feesType": "Registration",
+    "paymentMode": "Cash",
+    "amountPaid": 10000,
+    "dateOfAdmission": "2026-04-09",
+    "counsellorName": "Anshika",
+    "leadSource": "Website",
+    "remarks": "Registration done for MDU",
+    "status": "Part Payment",
+    "tags": [
+      "Website Lead"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* Batch 2026\n*Student Name:* Swati\n*Mobile Number:* 9310908338\n\n*University:* Haryana\n*Course:* B.Ed\n\n*Fees Type:* Registration\n*Payment Mode:* Cash\n*Amount Paid:* Rs. 10,000\n\n*Date of Admission:* 2026-04-09\n*Handled By:* Anshika\n*Lead Source:* Website\n*Remark:* Registration done for MDU\n\n*Status:* Registration",
+      "lastSyncTime": "2026-06-17T11:46:20.495Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 30,
+    "date": "09/05/2026",
+    "time": "30/12/1899",
+    "session": "01/07/2026",
+    "studentName": "Sachin Shakya",
+    "mobileNumber": "9773146458",
+    "universityName": "GLA",
+    "course": "MBA",
+    "feesType": "One Time",
+    "paymentMode": "EMI",
+    "amountPaid": 105300,
+    "dateOfAdmission": "2026-05-09",
+    "counsellorName": "Deepa Gupta",
+    "leadSource": "Old lead",
+    "remarks": "",
+    "status": "Admission Done",
+    "tags": [
+      "High Value",
+      "Old lead Lead"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* 01/07/2026\n*Student Name:* Sachin Shakya\n*Mobile Number:* 9773146458\n\n*University:* GLA\n*Course:* MBA\n\n*Fees Type:* One Time\n*Payment Mode:* EMI\n*Amount Paid:* Rs. 1,05,300\n\n*Date of Admission:* 2026-05-09\n*Handled By:* Deepa Gupta\n*Lead Source:* Old lead\n*Remark:* N/A\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T06:14:28.280Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 31,
+    "date": "09/05/2026",
+    "time": "30/12/1899",
+    "session": "Batch 2026",
+    "studentName": "Bandana Mishra",
+    "mobileNumber": "7003606153",
+    "universityName": "Uttar Pradesh",
+    "course": "M.Ed",
+    "feesType": "Part Payment",
+    "paymentMode": "UPI",
+    "amountPaid": 10000,
+    "dateOfAdmission": "2026-05-08",
+    "counsellorName": "Anshika",
+    "leadSource": "Website",
+    "remarks": "Entrance form pending",
+    "status": "Part Payment",
+    "tags": [
+      "Website Lead"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* Batch 2026\n*Student Name:* Bandana Mishra\n*Mobile Number:* 7003606153\n\n*University:* Uttar Pradesh\n*Course:* M.Ed\n\n*Fees Type:* Part Payment\n*Payment Mode:* UPI\n*Amount Paid:* Rs. 10,000\n\n*Date of Admission:* 2026-05-08\n*Handled By:* Anshika\n*Lead Source:* Website\n*Remark:* Entrance form pending\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T11:36:59.346Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 32,
+    "date": "15/05/2026",
+    "time": "30/12/1899",
+    "session": "01/07/2026",
+    "studentName": "Anjali Chandola",
+    "mobileNumber": "7428402898",
+    "universityName": "MUJ",
+    "course": "MBA",
+    "feesType": "Annual",
+    "paymentMode": "EMI",
+    "amountPaid": 76500,
+    "dateOfAdmission": "2026-05-15",
+    "counsellorName": "Anshika",
+    "leadSource": "Website",
+    "remarks": "LMS Pending",
+    "status": "Admission Done",
+    "tags": [
+      "High Value",
+      "Website Lead"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* 01/07/2026\n*Student Name:* Anjali Chandola\n*Mobile Number:* 7428402898\n\n*University:* MUJ\n*Course:* MBA\n\n*Fees Type:* Annual\n*Payment Mode:* EMI\n*Amount Paid:* Rs. 76,500\n\n*Date of Admission:* 2026-05-15\n*Handled By:* Anshika\n*Lead Source:* Website\n*Remark:* LMS Pending\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T06:14:24.905Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 33,
+    "date": "15/05/2026",
+    "time": "30/12/1899",
+    "session": "Batch 2026",
+    "studentName": "Pushpak Raj",
+    "mobileNumber": "7352276049",
+    "universityName": "IILM",
+    "course": "B.Tech",
+    "feesType": "Part Payment",
+    "paymentMode": "UPI",
+    "amountPaid": 30000,
+    "dateOfAdmission": "2026-05-15",
+    "counsellorName": "Sir",
+    "leadSource": "Reference",
+    "remarks": "NA",
+    "status": "Registration",
+    "tags": [
+      "Referral"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* Batch 2026\n*Student Name:* Pushpak Raj\n*Mobile Number:* 7352276049\n\n*University:* IILM\n*Course:* B.Tech\n\n*Fees Type:* Part Payment\n*Payment Mode:* UPI\n*Amount Paid:* Rs. 30,000\n\n*Date of Admission:* 2026-05-15\n*Handled By:* Sir\n*Lead Source:* Reference\n*Remark:* NA\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T12:52:04.580Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 34,
+    "date": "15/05/2026",
+    "time": "30/12/1899",
+    "session": "01/07/2026",
+    "studentName": "Khushboo Bharti",
+    "mobileNumber": "6283070241",
+    "universityName": "SMU",
+    "course": "MBA",
+    "feesType": "Semester",
+    "paymentMode": "Credit Card",
+    "amountPaid": 27000,
+    "dateOfAdmission": "2026-05-15",
+    "counsellorName": "Deepa Gupta",
+    "leadSource": "Reference",
+    "remarks": "LMS pending",
+    "status": "Admission Done",
+    "tags": [
+      "Referral"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* 01/07/2026\n*Student Name:* Khushboo Bharti\n*Mobile Number:* 6283070241\n\n*University:* SMU\n*Course:* MBA\n\n*Fees Type:* Semester\n*Payment Mode:* Credit Card\n*Amount Paid:* Rs. 27,000\n\n*Date of Admission:* 2026-05-15\n*Handled By:* Deepa Gupta\n*Lead Source:* Reference\n*Remark:* LMS pending\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T06:14:24.429Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 35,
+    "date": "27/05/2026",
+    "time": "30/12/1899",
+    "session": "01/07/2026",
+    "studentName": "Shubham",
+    "mobileNumber": "8320622216",
+    "universityName": "GLA",
+    "course": "MBA",
+    "feesType": "One Time",
+    "paymentMode": "EMI",
+    "amountPaid": 105300,
+    "dateOfAdmission": "2026-05-27",
+    "counsellorName": "Deepa Gupta",
+    "leadSource": "Reference",
+    "remarks": "LMS pending",
+    "status": "Admission Done",
+    "tags": [
+      "High Value",
+      "Referral"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* 01/07/2026\n*Student Name:* Shubham\n*Mobile Number:* 8320622216\n\n*University:* GLA\n*Course:* MBA\n\n*Fees Type:* One Time\n*Payment Mode:* EMI\n*Amount Paid:* Rs. 1,05,300\n\n*Date of Admission:* 2026-05-27\n*Handled By:* Deepa Gupta\n*Lead Source:* Reference\n*Remark:* LMS pending\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T06:14:23.030Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 36,
+    "date": "29/05/2026",
+    "time": "30/12/1899",
+    "session": "01/07/2026",
+    "studentName": "Arush malik",
+    "mobileNumber": "9990578727",
+    "universityName": "SVSU",
+    "course": "Bcom",
+    "feesType": "Annual",
+    "paymentMode": "UPI",
+    "amountPaid": 13500,
+    "dateOfAdmission": "2026-05-29",
+    "counsellorName": "Anshika",
+    "leadSource": "Reference",
+    "remarks": "NA",
+    "status": "Admission Done",
+    "tags": [
+      "Referral"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* 01/07/2026\n*Student Name:* Arush malik\n*Mobile Number:* 9990578727\n\n*University:* SVSU\n*Course:* Bcom\n\n*Fees Type:* Annual\n*Payment Mode:* UPI\n*Amount Paid:* Rs. 13,500\n\n*Date of Admission:* 2026-05-29\n*Handled By:* Anshika\n*Lead Source:* Reference\n*Remark:* NA\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T06:14:22.609Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 37,
+    "date": "03/06/2026",
+    "time": "30/12/1899",
+    "session": "Batch 2026",
+    "studentName": "Neelam Rajput",
+    "mobileNumber": "7303155239",
+    "universityName": "Haryana",
+    "course": "B.Ed",
+    "feesType": "Part Payment",
+    "paymentMode": "UPI",
+    "amountPaid": 10000,
+    "dateOfAdmission": "2026-06-03",
+    "counsellorName": "Anshika",
+    "leadSource": "Website",
+    "remarks": "-",
+    "status": "Part Payment",
+    "tags": [
+      "Website Lead"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* Batch 2026\n*Student Name:* Neelam Rajput\n*Mobile Number:* 7303155239\n\n*University:* Haryana\n*Course:* B.Ed\n\n*Fees Type:* Part Payment\n*Payment Mode:* UPI\n*Amount Paid:* Rs. 5,000\n\n*Date of Admission:* 2026-06-03\n*Handled By:* Anshika\n*Lead Source:* Website\n*Remark:* -\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T11:36:50.644Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 38,
+    "date": "05/06/2026",
+    "time": "30/12/1899",
+    "session": "01/07/2026",
+    "studentName": "Anushka",
+    "mobileNumber": "9109383948",
+    "universityName": "MUJ",
+    "course": "MBA",
+    "feesType": "Annual",
+    "paymentMode": "EMI",
+    "amountPaid": 76500,
+    "dateOfAdmission": "2026-06-05",
+    "counsellorName": "Deepa Gupta",
+    "leadSource": "WhatsApp",
+    "remarks": "ABC pending",
+    "status": "Admission Done",
+    "tags": [
+      "High Value",
+      "WhatsApp Lead"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* 01/07/2026\n*Student Name:* Anushka\n*Mobile Number:* 9109383948\n\n*University:* MUJ\n*Course:* MBA\n\n*Fees Type:* Annual\n*Payment Mode:* EMI\n*Amount Paid:* Rs. 76,500\n\n*Date of Admission:* 2026-06-05\n*Handled By:* Deepa Gupta\n*Lead Source:* WhatsApp\n*Remark:* ABC pending\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T06:14:20.615Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 39,
+    "date": "08/06/2026",
+    "time": "30/12/1899",
+    "session": "01/07/2026",
+    "studentName": "Nisha Verma",
+    "mobileNumber": "7007989693",
+    "universityName": "GLA",
+    "course": "BBA",
+    "feesType": "Part Payment",
+    "paymentMode": "UPI",
+    "amountPaid": 6000,
+    "dateOfAdmission": "2026-06-08",
+    "counsellorName": "Deepa Gupta",
+    "leadSource": "Reference",
+    "remarks": "Rest amount will pay in July",
+    "status": "Part Payment",
+    "tags": [
+      "Referral"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* 01/07/2026\n*Student Name:* Nisha Verma\n*Mobile Number:* 7007989693\n\n*University:* GLA\n*Course:* BBA\n\n*Fees Type:* Part Payment\n*Payment Mode:* UPI\n*Amount Paid:* Rs. 6,000\n\n*Date of Admission:* 2026-06-08\n*Handled By:* Deepa Gupta\n*Lead Source:* Reference\n*Remark:* Rest amount will pay in July\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T09:27:32.360Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 40,
+    "date": "10/06/2026",
+    "time": "30/12/1899",
+    "session": "01/07/2026",
+    "studentName": "Sarthak Semwal",
+    "mobileNumber": "9536612179",
+    "universityName": "GLA",
+    "course": "MBA",
+    "feesType": "Semester",
+    "paymentMode": "UPI",
+    "amountPaid": 27550,
+    "dateOfAdmission": "2026-06-10",
+    "counsellorName": "Anshika",
+    "leadSource": "Reference",
+    "remarks": "NA",
+    "status": "Admission Done",
+    "tags": [
+      "Referral"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* 01/07/2026\n*Student Name:* Sarthak Semwal\n*Mobile Number:* 9536612179\n\n*University:* GLA\n*Course:* MBA\n\n*Fees Type:* Semester\n*Payment Mode:* UPI\n*Amount Paid:* Rs. 27,550\n\n*Date of Admission:* 2026-06-10\n*Handled By:* Anshika\n*Lead Source:* Reference\n*Remark:* NA\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T06:14:15.319Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 41,
+    "date": "13/06/2026",
+    "time": "30/12/1899",
+    "session": "Batch 2026",
+    "studentName": "Archana",
+    "mobileNumber": "7428569948",
+    "universityName": "Uttar Pradesh",
+    "course": "M.Ed",
+    "feesType": "Part Payment",
+    "paymentMode": "EMI",
+    "amountPaid": 10000,
+    "dateOfAdmission": "2026-06-13",
+    "counsellorName": "Anshika",
+    "leadSource": "Reference",
+    "remarks": "Entrance form Pending",
+    "status": "Part Payment",
+    "tags": [
+      "Referral"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* Batch 2026\n*Student Name:* Archana\n*Mobile Number:* 7428569948\n\n*University:* Uttar Pradesh\n*Course:* M.Ed\n\n*Fees Type:* Part Payment\n*Payment Mode:* EMI\n*Amount Paid:* Rs. 10,000\n\n*Date of Admission:* 2026-06-13\n*Handled By:* Anshika\n*Lead Source:* Reference\n*Remark:* Entrance form Pending\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T10:50:21.635Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 42,
+    "date": "13/06/2026",
+    "time": "30/12/1899",
+    "session": "01/07/2026",
+    "studentName": "Praveen Kumar",
+    "mobileNumber": "9817548406",
+    "universityName": "GLA",
+    "course": "MBA",
+    "feesType": "Semester",
+    "paymentMode": "Credit Card",
+    "amountPaid": 27550,
+    "dateOfAdmission": "2026-06-13",
+    "counsellorName": "Anshika",
+    "leadSource": "Reference",
+    "remarks": "DEB pending",
+    "status": "Admission Done",
+    "tags": [
+      "Referral"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* 01/07/2026\n*Student Name:* Praveen Kumar\n*Mobile Number:* 9817548406\n\n*University:* GLA\n*Course:* MBA\n\n*Fees Type:* Semester\n*Payment Mode:* Credit Card\n*Amount Paid:* Rs. 27,550\n\n*Date of Admission:* 2026-06-13\n*Handled By:* Anshika\n*Lead Source:* Reference\n*Remark:* DEB pending\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T06:14:13.310Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 43,
+    "date": "16/06/2026",
+    "time": "30/12/1899",
+    "session": "01/07/2026",
+    "studentName": "Gurbachan singh",
+    "mobileNumber": "9418177007",
+    "universityName": "GLA",
+    "course": "MBA",
+    "feesType": "One Time",
+    "paymentMode": "EMI",
+    "amountPaid": 105300,
+    "dateOfAdmission": "2026-06-16",
+    "counsellorName": "Anshika",
+    "leadSource": "Reference",
+    "remarks": "NA",
+    "status": "Admission Done",
+    "tags": [
+      "High Value",
+      "Referral"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* 01/07/2026\n*Student Name:* Gurbachan singh\n*Mobile Number:* 9418177007\n\n*University:* GLA\n*Course:* MBA\n\n*Fees Type:* One Time\n*Payment Mode:* EMI\n*Amount Paid:* Rs. 1,05,300\n\n*Date of Admission:* 2026-06-16\n*Handled By:* Anshika\n*Lead Source:* Reference\n*Remark:* NA\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T06:14:12.662Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 44,
+    "date": "16/06/2026",
+    "time": "30/12/1899",
+    "session": "01/07/2026",
+    "studentName": "Harsh kanojia",
+    "mobileNumber": "9818071826",
+    "universityName": "GLA",
+    "course": "MCA",
+    "feesType": "One Time",
+    "paymentMode": "EMI",
+    "amountPaid": 94300,
+    "dateOfAdmission": "2026-06-10",
+    "counsellorName": "Anshika",
+    "leadSource": "Reference",
+    "remarks": "NA",
+    "status": "Admission Done",
+    "tags": [
+      "High Value",
+      "Referral"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* 01/07/2026\n*Student Name:* Harsh kanojia\n*Mobile Number:* 9818071826\n\n*University:* GLA\n*Course:* MCA\n\n*Fees Type:* One Time\n*Payment Mode:* EMI\n*Amount Paid:* Rs. 94,300\n\n*Date of Admission:* 2026-06-10\n*Handled By:* Anshika\n*Lead Source:* Reference\n*Remark:* NA\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T06:14:11.440Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 45,
+    "date": "17/11/2025",
+    "time": "30/12/1899",
+    "session": "01/01/2026",
+    "studentName": "Gurudev",
+    "mobileNumber": "8051619027",
+    "universityName": "LPU",
+    "course": "BCA",
+    "feesType": "Registration",
+    "paymentMode": "online",
+    "amountPaid": 600,
+    "dateOfAdmission": "2025-11-17",
+    "counsellorName": "Nishu",
+    "leadSource": "SOL",
+    "remarks": "",
+    "status": "Registration",
+    "tags": [
+      "SOL Lead"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* 01/01/2026\n*Student Name:* Gurudev\n*Mobile Number:* 8051619027\n\n*University:* LPU\n*Course:* BCA\n\n*Fees Type:* Registration\n*Payment Mode:* online\n*Amount Paid:* Rs. 600\n\n*Date of Admission:* 2025-11-17\n*Handled By:* Nishu\n*Lead Source:* SOL\n*Remark:* N/A\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T07:45:47.063Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 46,
+    "date": "15/01/2026",
+    "time": "30/12/1899",
+    "session": "01/01/2026",
+    "studentName": "Vivek",
+    "mobileNumber": "9310239272",
+    "universityName": "Mangalayatan OL",
+    "course": "BA",
+    "feesType": "Registration",
+    "paymentMode": "online",
+    "amountPaid": 4395,
+    "dateOfAdmission": "2026-01-15",
+    "counsellorName": "Nishu",
+    "leadSource": "SOL",
+    "remarks": "he paid around 4395 (1000) for reg. (3395 paid) (pending 6605)",
+    "status": "Registration",
+    "tags": [
+      "SOL Lead"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* 01/01/2026\n*Student Name:* Vivek\n*Mobile Number:* 9310239272\n\n*University:* Mangalayatan OL\n*Course:* BA\n\n*Fees Type:* Registration\n*Payment Mode:* online\n*Amount Paid:* Rs. 1,000\n\n*Date of Admission:* 2026-01-15\n*Handled By:* Nishu\n*Lead Source:* SOL\n*Remark:* he paid around 4395 (1000) for reg. (3395 paid) (pending 6605)\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T07:46:17.571Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 47,
+    "date": "16/01/2026",
+    "time": "30/12/1899",
+    "session": "01/01/2026",
+    "studentName": "Manashi Sarkar",
+    "mobileNumber": "8100457756",
+    "universityName": "NIU",
+    "course": "MBA",
+    "feesType": "Registration",
+    "paymentMode": "online",
+    "amountPaid": 1100,
+    "dateOfAdmission": "2026-01-16",
+    "counsellorName": "Anshika",
+    "leadSource": "ShikSha",
+    "remarks": "",
+    "status": "Part Payment",
+    "tags": [
+      "ShikSha Lead"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* 01/01/2026\n*Student Name:* Manashi Sarkar\n*Mobile Number:* 8100457756\n\n*University:* NIU\n*Course:* MBA\n\n*Fees Type:* Registration\n*Payment Mode:* online\n*Amount Paid:* Rs. 1,100\n\n*Date of Admission:* 2026-01-16\n*Handled By:* Anshika\n*Lead Source:* ShikSha\n*Remark:* N/A\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T11:40:08.063Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 48,
+    "date": "30/01/2026",
+    "time": "30/12/1899",
+    "session": "01/01/2026",
+    "studentName": "Aurobindo samal",
+    "mobileNumber": "7873497620",
+    "universityName": "NIU",
+    "course": "MBA",
+    "feesType": "Registration",
+    "paymentMode": "online",
+    "amountPaid": 1100,
+    "dateOfAdmission": "2026-01-30",
+    "counsellorName": "Anshika",
+    "leadSource": "Meta Ads",
+    "remarks": "",
+    "status": "Registration",
+    "tags": [
+      "Meta Ads Lead"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* 01/01/2026\n*Student Name:* Aurobindo samal\n*Mobile Number:* 7873497620\n\n*University:* NIU\n*Course:* MBA\n\n*Fees Type:* Registration\n*Payment Mode:* online\n*Amount Paid:* Rs. 1,100\n\n*Date of Admission:* 2026-01-30\n*Handled By:* Anshika\n*Lead Source:* Meta Ads\n*Remark:* N/A\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T11:39:23.175Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 49,
+    "date": "30/01/2026",
+    "time": "30/12/1899",
+    "session": "01/01/2026",
+    "studentName": "Pawan Kumar Sharma",
+    "mobileNumber": "8510045473",
+    "universityName": "Amity",
+    "course": "BA",
+    "feesType": "Registration",
+    "paymentMode": "online",
+    "amountPaid": 1100,
+    "dateOfAdmission": "2026-01-30",
+    "counsellorName": "Anshika",
+    "leadSource": "SOL",
+    "remarks": "",
+    "status": "Registration",
+    "tags": [
+      "SOL Lead"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* 01/01/2026\n*Student Name:* Pawan Kumar Sharma\n*Mobile Number:* 8510045473\n\n*University:* Amity\n*Course:* BA\n\n*Fees Type:* Registration\n*Payment Mode:* online\n*Amount Paid:* Rs. 1,100\n\n*Date of Admission:* 2026-01-30\n*Handled By:* Anshika\n*Lead Source:* SOL\n*Remark:* N/A\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T11:38:44.046Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 50,
+    "date": "25/03/2026",
+    "time": "30/12/1899",
+    "session": "01/01/2026",
+    "studentName": "Shivanand",
+    "mobileNumber": "9369881205",
+    "universityName": "NIU",
+    "course": "MBA",
+    "feesType": "Registration",
+    "paymentMode": "UPI",
+    "amountPaid": 1100,
+    "dateOfAdmission": "2026-03-25",
+    "counsellorName": "Anshika",
+    "leadSource": "Meta Ads",
+    "remarks": "only KYC is pending all process has been done",
+    "status": "Registration",
+    "tags": [
+      "Meta Ads Lead"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* 01/01/2026\n*Student Name:* Shivanand\n*Mobile Number:* 9369881205\n\n*University:* NIU\n*Course:* MBA\n\n*Fees Type:* Registration\n*Payment Mode:* UPI\n*Amount Paid:* Rs. 1,100\n\n*Date of Admission:* 2026-03-25\n*Handled By:* Anshika\n*Lead Source:* Meta Ads\n*Remark:* only KYC is pending all process has been done\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-17T11:37:16.038Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 51,
+    "date": "22/04/2026",
+    "time": "30/12/1899",
+    "session": "01/07/2026",
+    "studentName": "Sumith Nath",
+    "mobileNumber": "7636893569",
+    "universityName": "SMU",
+    "course": "MBA",
+    "feesType": "Registration",
+    "paymentMode": "UPI",
+    "amountPaid": 500,
+    "dateOfAdmission": "2026-04-21",
+    "counsellorName": "Deepa Gupta",
+    "leadSource": "WhatsApp",
+    "remarks": "Document Pending",
+    "status": "Registration",
+    "tags": [
+      "WhatsApp Lead"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* 01/07/2026\n*Student Name:* Sumith Nath\n*Mobile Number:* 7636893569\n\n*University:* SMU\n*Course:* MBA\n\n*Fees Type:* Registration\n*Payment Mode:* UPI\n*Amount Paid:* Rs. 500\n\n*Date of Admission:* 2026-04-21\n*Handled By:* Deepa Gupta\n*Lead Source:* WhatsApp\n*Remark:* Document Pending\n\n*Status:* Registration",
+      "lastSyncTime": "2026-06-17T06:13:57.260Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 52,
+    "date": "30/04/2026",
+    "time": "30/12/1899",
+    "session": "01/07/2026",
+    "studentName": "Faheel Hamid",
+    "mobileNumber": "7006948966",
+    "universityName": "GLA",
+    "course": "MBA",
+    "feesType": "Registration",
+    "paymentMode": "UPI",
+    "amountPaid": 500,
+    "dateOfAdmission": "2026-04-30",
+    "counsellorName": "Deepa Gupta",
+    "leadSource": "WhatsApp",
+    "remarks": "NA",
+    "status": "Registration",
+    "tags": [
+      "WhatsApp Lead"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* 01/07/2026\n*Student Name:* Faheel Hamid\n*Mobile Number:* 7006948966\n\n*University:* GLA\n*Course:* MBA\n\n*Fees Type:* Registration\n*Payment Mode:* UPI\n*Amount Paid:* Rs. 500\n\n*Date of Admission:* 2026-04-30\n*Handled By:* Deepa Gupta\n*Lead Source:* WhatsApp\n*Remark:* NA\n\n*Status:* Registration",
+      "lastSyncTime": "2026-06-17T06:13:56.794Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 53,
+    "date": "04/05/2026",
+    "time": "30/12/1899",
+    "session": "01/07/2026",
+    "studentName": "Mohammad Parvez Alam",
+    "mobileNumber": "9690611045",
+    "universityName": "SMU",
+    "course": "MBA",
+    "feesType": "Registration",
+    "paymentMode": "UPI",
+    "amountPaid": 500,
+    "dateOfAdmission": "2026-05-04",
+    "counsellorName": "Deepa Gupta",
+    "leadSource": "WhatsApp",
+    "remarks": "Doc and fees pending",
+    "status": "Registration",
+    "tags": [
+      "WhatsApp Lead"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* 01/07/2026\n*Student Name:* Mohammad Parvez Alam\n*Mobile Number:* 9690611045\n\n*University:* SMU\n*Course:* MBA\n\n*Fees Type:* Registration\n*Payment Mode:* UPI\n*Amount Paid:* Rs. 500\n\n*Date of Admission:* 2026-05-04\n*Handled By:* Deepa Gupta\n*Lead Source:* WhatsApp\n*Remark:* Doc and fees pending\n\n*Status:* Registration",
+      "lastSyncTime": "2026-06-17T06:13:52.855Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 54,
+    "date": "30/05/2026",
+    "time": "30/12/1899",
+    "session": "Batch 2026",
+    "studentName": "Kartavya Choudhary",
+    "mobileNumber": "8076961361",
+    "universityName": "GLA",
+    "course": "B.Tech",
+    "feesType": "Registration",
+    "paymentMode": "UPI",
+    "amountPaid": 1000,
+    "dateOfAdmission": "2026-05-30",
+    "counsellorName": "Anshika",
+    "leadSource": "Website",
+    "remarks": "Entrance pending",
+    "status": "Registration",
+    "tags": [
+      "Website Lead"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* Batch 2026\n*Student Name:* kartavya choudhary\n*Mobile Number:* 8076961361\n\n*University:* GLA\n*Course:* B.Tech\n\n*Fees Type:* Registration\n*Payment Mode:* UPI\n*Amount Paid:* Rs. 1,000\n\n*Date of Admission:* 2026-05-30\n*Handled By:* Anshika\n*Lead Source:* Website\n*Remark:* Entrance pending\n\n*Status:* Registration",
+      "lastSyncTime": "2026-06-19T07:48:48.028Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 55,
+    "date": "20/06/2026",
+    "time": "30/12/1899",
+    "session": "Batch 2026",
+    "studentName": "Priya Yadav",
+    "mobileNumber": "7011981764",
+    "universityName": "Uttar Pradesh",
+    "course": "B.P.Ed",
+    "feesType": "Registration",
+    "paymentMode": "UPI",
+    "amountPaid": 10000,
+    "dateOfAdmission": "2026-06-19",
+    "counsellorName": "Anshika",
+    "leadSource": "Reference",
+    "remarks": "Entrance Exam Is Pending",
+    "status": "Part Payment",
+    "tags": [
+      "Referral"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* Batch 2026\n*Student Name:* Priya Yadav\n*Mobile Number:* 7011981764\n\n*University:* Uttar Pradesh\n*Course:* B.P.Ed\n\n*Fees Type:* Registration\n*Payment Mode:* UPI\n*Amount Paid:* Rs. 10,000\n\n*Date of Admission:* 2026-06-19\n*Handled By:* Anshika\n*Lead Source:* Reference\n*Remark:* Entrance Exam Is Pending\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-20T07:30:25.213Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 56,
+    "date": "20/06/2026",
+    "time": "30/12/1899",
+    "session": "01/07/2026",
+    "studentName": "Saloni Pal",
+    "mobileNumber": "8595033691",
+    "universityName": "GLA",
+    "course": "BBA",
+    "feesType": "Registration",
+    "paymentMode": "UPI",
+    "amountPaid": 500,
+    "dateOfAdmission": "2026-06-20",
+    "counsellorName": "Deepa Gupta",
+    "leadSource": "WhatsApp",
+    "remarks": "Paying Hole Amount on Monday e.i. 22/06/2026",
+    "status": "Registration",
+    "tags": [
+      "WhatsApp Lead"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* 01/07/2026\n*Student Name:* Saloni Pal\n*Mobile Number:* 8595033691\n\n*University:* GLA\n*Course:* BBA\n\n*Fees Type:* Registration\n*Payment Mode:* UPI\n*Amount Paid:* Rs. 500\n\n*Date of Admission:* 2026-06-20\n*Handled By:* Deepa Gupta\n*Lead Source:* WhatsApp\n*Remark:* Paying Hole Amount on Monday e.i. 22/06/2026\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-20T09:56:38.376Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  },
+  {
+    "sNo": 57,
+    "date": "20/06/2026",
+    "time": "18:02:15",
+    "session": "July 2026",
+    "studentName": "Nikhil Jha",
+    "mobileNumber": "7284867245",
+    "universityName": "GLA",
+    "course": "MBA",
+    "feesType": "One Time",
+    "paymentMode": "EMI",
+    "amountPaid": 105300,
+    "dateOfAdmission": "2026-06-20",
+    "counsellorName": "Deepa Gupta",
+    "leadSource": "Reference",
+    "remarks": "DEB ID Is Pending \n",
+    "status": "Admission Done",
+    "tags": [
+      "High Value",
+      "Referral"
+    ],
+    "syncStatus": {
+      "googleSheets": "success",
+      "whatsapp": "simulated",
+      "whatsappMessage": "*Sky Education Group - Admission Done*\n\n*Session:* July 2026\n*Student Name:* Nikhil Jha\n*Mobile Number:* 7284867245\n\n*University:* GLA\n*Course:* MBA\n\n*Fees Type:* One Time\n*Payment Mode:* EMI\n*Amount Paid:* Rs. 1,05,300\n\n*Date of Admission:* 2026-06-20\n*Handled By:* Deepa Gupta\n*Lead Source:* Reference\n*Remark:* DEB ID Is Pending \n\n\n*Status:* Admission Done",
+      "lastSyncTime": "2026-06-20T12:33:17.430Z",
+      "sheetsError": null,
+      "whatsappError": null
+    }
+  }
+]

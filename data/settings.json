@@ -1,0 +1,437 @@
+{
+  "incentiveConfig": {
+    "calculationStartDate": "2026-04-10",
+    "monthlyTarget": 250000,
+    "monthly": [
+      {
+        "min": 0,
+        "max": 79.99,
+        "amount": 0
+      },
+      {
+        "min": 80,
+        "max": 99.99,
+        "amount": 1500
+      },
+      {
+        "min": 100,
+        "max": 119.99,
+        "amount": 3000
+      },
+      {
+        "min": 120,
+        "max": 149.99,
+        "amount": 6000
+      },
+      {
+        "min": 150,
+        "max": 99999,
+        "amount": 10000
+      }
+    ],
+    "quarterly": [
+      {
+        "min": 90,
+        "max": 99.99,
+        "amount": 4000
+      },
+      {
+        "min": 100,
+        "max": 119.99,
+        "amount": 10000
+      },
+      {
+        "min": 120,
+        "max": 149.99,
+        "amount": 15000
+      },
+      {
+        "min": 150,
+        "max": 99999,
+        "amount": 25000
+      }
+    ],
+    "halfYearly": [
+      {
+        "min": 100,
+        "max": 119.99,
+        "amount": 10000
+      },
+      {
+        "min": 120,
+        "max": 149.99,
+        "amount": 20000
+      },
+      {
+        "min": 150,
+        "max": 99999,
+        "amount": 35000
+      }
+    ],
+    "annual": [
+      {
+        "min": 100,
+        "max": 119.99,
+        "amount": 20000
+      },
+      {
+        "min": 120,
+        "max": 149.99,
+        "amount": 35000
+      },
+      {
+        "min": 150,
+        "max": 99999,
+        "amount": 50000
+      }
+    ],
+    "teamSlabs": {
+      "monthly": [
+        {
+          "min": 100,
+          "max": 109.99,
+          "amount": 5000
+        },
+        {
+          "min": 110,
+          "max": 119.99,
+          "amount": 10000
+        },
+        {
+          "min": 120,
+          "max": 129.99,
+          "amount": 15000
+        },
+        {
+          "min": 130,
+          "max": 99999,
+          "amount": 20000
+        }
+      ],
+      "quarterly": [
+        {
+          "min": 100,
+          "max": 119.99,
+          "amount": 20000
+        },
+        {
+          "min": 120,
+          "max": 149.99,
+          "amount": 40000
+        },
+        {
+          "min": 150,
+          "max": 99999,
+          "amount": 60000
+        }
+      ],
+      "halfYearly": [
+        {
+          "min": 100,
+          "max": 119.99,
+          "amount": 40000
+        },
+        {
+          "min": 120,
+          "max": 149.99,
+          "amount": 75000
+        },
+        {
+          "min": 150,
+          "max": 99999,
+          "amount": 100000
+        }
+      ],
+      "annual": [
+        {
+          "min": 100,
+          "max": 119.99,
+          "amount": 75000
+        },
+        {
+          "min": 120,
+          "max": 149.99,
+          "amount": 125000
+        },
+        {
+          "min": 150,
+          "max": 99999,
+          "amount": 200000
+        }
+      ]
+    }
+  },
+  "dropdowns": {
+    "months": [
+      "2026-04",
+      "2026-05",
+      "2026-06",
+      "2026-07",
+      "2026-08",
+      "2026-09",
+      "2026-10",
+      "2026-11",
+      "2026-12",
+      "2027-01",
+      "2027-02",
+      "2027-03"
+    ],
+    "sessions": [
+      "July 2026",
+      "Batch 2026",
+      "January 2026"
+    ],
+    "universities": [
+      "MUJ",
+      "SMU",
+      "GLA",
+      "Haryana",
+      "Uttar Pradesh",
+      "SGVU",
+      "LPU"
+    ],
+    "courses": [
+      "MBA",
+      "MCA",
+      "BBA",
+      "B.Ed",
+      "M.Ed",
+      "B.Com",
+      "M.Com",
+      "B.P.Ed"
+    ],
+    "feesTypes": [
+      "Part Payment",
+      "One Time",
+      "Registration",
+      "Semester",
+      "Annual"
+    ],
+    "paymentModes": [
+      "UPI",
+      "EMI",
+      "Cash",
+      "Credit Card",
+      "Net Banking"
+    ],
+    "leadSources": [
+      "WhatsApp",
+      "Website",
+      "Reference",
+      "Old Lead",
+      "Google Ads",
+      "Du Sol",
+      "Other"
+    ],
+    "counsellors": [
+      "Bunty",
+      "Nishu",
+      "Sir",
+      "Karan Kumar",
+      "Abhishek",
+      "Anshika",
+      "Deepa Gupta"
+    ],
+    "statuses": [
+      "Admission Done",
+      "Registration",
+      "Pending",
+      "Follow-up",
+      "Refund ProcessStarted",
+      "Part Payment"
+    ]
+  },
+  "whatsapp": {
+    "enabled": false,
+    "twilioAccountSid": "",
+    "twilioAuthToken": "",
+    "twilioFromNumber": "",
+    "targetNumber": "9289062707"
+  },
+  "googleSheets": {
+    "enabled": true,
+    "webhookUrl": "https://script.google.com/macros/s/AKfycbyAnoJd8Xw6ul7vHx4a1gq-r_D8YsVsSaeU0toucid9o8rC_ATfPCxgguwut7MNcJMwoA/exec"
+  },
+  "counsellorTargets": [
+    {
+      "counsellorName": "Anshika",
+      "startDate": "2026-04-01",
+      "endDate": "2027-03-31",
+      "targetAmount": 275000
+    },
+    {
+      "counsellorName": "Deepa Gupta",
+      "startDate": "2026-04-01",
+      "endDate": "2027-03-31",
+      "targetAmount": 500000
+    },
+    {
+      "counsellorName": "Karan Kumar",
+      "startDate": "2026-04-01",
+      "endDate": "2027-03-31",
+      "targetAmount": 225000
+    },
+    {
+      "counsellorName": "Abhishek",
+      "startDate": "2026-04-01",
+      "endDate": "2027-03-31",
+      "targetAmount": 225000
+    }
+  ],
+  "users": [
+    {
+      "username": "admin",
+      "password": "admin123",
+      "role": "admin",
+      "name": "Administrator",
+      "isPrimaryAdmin": true
+    },
+    {
+      "username": "anshika05",
+      "password": "SEGanshika@2377",
+      "role": "counsellor",
+      "name": "Anshika",
+      "dateOfJoining": "2018-12-18",
+      "mobileNumber": "8851272377",
+      "employeeNumber": "SEG-05",
+      "twoFactorEnabled": false,
+      "twoFactorSecret": "Q7PASFUW6VAQIL2X",
+      "achievements": {
+        "doubleStrike": 2,
+        "hattrickHero": 0,
+        "skyStorm": 0,
+        "skyTsunami": 0,
+        "consistencyChampion": 0,
+        "skyStriker": false,
+        "skyWarrior": false,
+        "skyCommander": false,
+        "skyRatna": false
+      },
+      "counsellors": []
+    },
+    {
+      "username": "deepa",
+      "password": "deepa123",
+      "role": "tl",
+      "name": "Deepa Gupta",
+      "dateOfJoining": "2026-04-01",
+      "mobileNumber": "9311745237",
+      "employeeNumber": "SEG-59",
+      "twoFactorEnabled": false,
+      "twoFactorSecret": "",
+      "achievements": {
+        "doubleStrike": 0,
+        "hattrickHero": 0,
+        "skyStorm": 0,
+        "skyTsunami": 0,
+        "consistencyChampion": 0,
+        "skyStriker": false,
+        "skyWarrior": false,
+        "skyCommander": false,
+        "skyRatna": false
+      },
+      "counsellors": [
+        "abhishek10",
+        "karan14"
+      ]
+    },
+    {
+      "username": "karan14",
+      "password": "SEGkaran@5270",
+      "role": "counsellor",
+      "name": "Karan Kumar",
+      "dateOfJoining": "2026-06-09",
+      "mobileNumber": "9643565270",
+      "employeeNumber": "SEG-14",
+      "achievements": {
+        "doubleStrike": 0,
+        "hattrickHero": 0,
+        "skyStorm": 0,
+        "skyTsunami": 0,
+        "consistencyChampion": 0,
+        "skyStriker": false,
+        "skyWarrior": false,
+        "skyCommander": false,
+        "skyRatna": false
+      },
+      "counsellors": []
+    },
+    {
+      "username": "abhishek10",
+      "password": "SEGabhishek@5706",
+      "role": "counsellor",
+      "name": "Abhishek",
+      "dateOfJoining": "2026-06-12",
+      "mobileNumber": "9643395706",
+      "employeeNumber": "SEG-10",
+      "achievements": {
+        "doubleStrike": 0,
+        "hattrickHero": 0,
+        "skyStorm": 0,
+        "skyTsunami": 0,
+        "consistencyChampion": 0,
+        "skyStriker": false,
+        "skyWarrior": false,
+        "skyCommander": false,
+        "skyRatna": false
+      },
+      "counsellors": []
+    },
+    {
+      "username": "bunty@123",
+      "password": "SEGbunty@2707",
+      "role": "it",
+      "name": "Bunty Singh",
+      "dateOfJoining": "2025-04-14",
+      "mobileNumber": "9289062707",
+      "employeeNumber": "43",
+      "twoFactorEnabled": false,
+      "twoFactorSecret": "",
+      "achievements": {
+        "doubleStrike": 0,
+        "hattrickHero": 0,
+        "skyStorm": 0,
+        "skyTsunami": 0,
+        "consistencyChampion": 0,
+        "skyStriker": false,
+        "skyWarrior": false,
+        "skyCommander": false,
+        "skyRatna": false
+      },
+      "counsellors": []
+    }
+  ],
+  "adminTotpSecret": "EWMA3CBKB4ILBMQ2",
+  "dailyThought": {
+    "mode": "same",
+    "same": {
+      "title": "Do You Know That?",
+      "text": "Every success story begins with the decision to try. Keep pushing forward!"
+    },
+    "counsellor": {
+      "title": "Do You Know That?",
+      "text": "Every success story begins with the decision to try. Keep pushing forward!"
+    },
+    "tl": {
+      "title": "Do You Know That?",
+      "text": "Every success story begins with the decision to try. Keep pushing forward!"
+    }
+  },
+  "policyDisclaimer": {
+    "text": "# DISCLAIMER, TERMS & CONDITIONS\n\n## INCENTIVE, BONUS & REWARD POLICY\n\n### Effective Date: 19 June 2026\n\nThis Incentive, Bonus & Reward Policy (\"Policy\") is issued by Sky Education Group and shall govern the eligibility, calculation, release, adjustment, recovery and forfeiture of all incentives, bonuses, rewards, recognitions and performance-linked benefits provided by the Company.\n\nBy continuing employment and participating in this program, every employee acknowledges that he/she has read, understood and accepted the following terms and conditions.\n\n---\n\n## 1. POLICY NATURE\n\n1.1 Incentives, bonuses, rewards and recognitions are discretionary, performance-linked benefits and shall not form part of fixed salary, wages, statutory compensation, future increments, gratuity, severance, notice pay or any guaranteed earnings.\n\n1.2 Participation in this program does not create any vested, permanent or contractual right to receive incentives, bonuses or rewards.\n\n1.3 The Company reserves the right to modify, revise, suspend, withdraw or discontinue any component of this policy at its sole discretion.\n\n---\n\n## 2. REVENUE RECOGNITION\n\n2.1 Revenue shall be considered only after verification and approval by the Management.\n\n2.2 The Company reserves the right to exclude any admission, fee payment or transaction that is found to be disputed, incomplete, fraudulent, unverified, duplicated or non-compliant.\n\n2.3 Incentive calculations shall be based only on approved revenue recognized by the Company.\n\n---\n\n## 3. QUALITY & COMPLIANCE REQUIREMENTS\n\nEmployees must maintain:\n\n* Attendance of minimum 90%.\n* CRM Compliance of minimum 95%.\n* Daily Reporting Compliance of minimum 95%.\n* Proper student counseling records.\n* Ethical selling practices.\n* Complete documentation standards.\n* Company code of conduct compliance.\n\nFailure to meet any of the above conditions may result in withholding, reduction or cancellation of incentives and bonuses.\n\n---\n\n## 4. CANCELLATION, REFUND & CHARGEBACK POLICY\n\nThe Company rewards revenue realization and admission quality, not merely admissions.\n\nAny admission that is:\n\n* Cancelled\n* Refunded\n* Reversed\n* Withdrawn\n* Chargeback processed\n* University rejected\n* Found ineligible\n* Found to contain incorrect information\n\nshall automatically be excluded from incentive and bonus calculations.\n\n---\n\n## 5. CLAWBACK & RECOVERY RIGHTS\n\n5.1 If incentives or bonuses have already been paid against an admission that is subsequently cancelled, refunded, reversed, rejected or charged back, the Company shall have the right to:\n\n* Reverse such incentive.\n* Recalculate performance achievement.\n* Recover excess payments.\n* Adjust future incentive payouts.\n* Adjust future bonus payouts.\n\n5.2 Such adjustment may be carried forward until the excess payment is fully recovered.\n\n5.3 The Company may recover wrongly paid incentive amounts from future incentive earnings, bonus payouts or any other permissible payments.\n\n---\n\n## 6. CANCELLATION RATIO POLICY\n\nEmployee performance shall also be evaluated based on admission quality.\n\nCancellation Ratio shall be calculated as:\n\n(Total Cancelled Admissions ÷ Total Admissions Closed) × 100\n\nPerformance Bands:\n\n| Cancellation Ratio | Status                       |\n| ------------------ | ---------------------------- |\n| 0% - 5%            | Healthy                      |\n| 5.01% - 10%        | Warning Zone                 |\n| 10.01% - 15%       | Performance Improvement Plan |\n| Above 15%          | Critical Review              |\n\nEmployees exceeding acceptable cancellation levels may become ineligible for bonus payouts and performance rewards.\n\n---\n\n## 7. BONUS ELIGIBILITY CONDITIONS\n\nQuarterly, Half-Yearly and Annual Bonuses shall be payable only if:\n\n* Revenue targets are achieved.\n* Attendance requirements are met.\n* Compliance requirements are met.\n* Cancellation ratio remains within approved limits.\n* No verified mis-selling complaint exists.\n* Employee remains in active employment on the payout date.\n\n---\n\n## 8. INCENTIVE RELEASE POLICY\n\nMonthly Incentives:\n\n* 75% shall be released with the next month's salary.\n* 25% shall be released with the second subsequent month's salary.\n\nQuarterly Bonuses:\n\n* 75% shall be released after quarter completion.\n* 25% shall be released in the following payroll cycle.\n\nHalf-Yearly Bonuses:\n\n* 75% shall be released after approval.\n* 25% shall be released in the next payroll cycle.\n\nAnnual Bonuses:\n\n* 75% shall be released after annual review.\n* 25% shall be released after completion of the subsequent quarter.\n\n---\n\n## 9. EMPLOYMENT STATUS REQUIREMENT\n\nTo receive any incentive, bonus or reward, the employee must:\n\n* Remain actively employed.\n* Not be serving notice period.\n* Not have resigned.\n* Not have absconded.\n* Not be under disciplinary investigation.\n* Not have pending Full & Final settlement issues.\n\non the applicable payout date.\n\n---\n\n## 10. FORFEITURE OF INCENTIVES & BONUSES\n\nAny pending, unpaid or deferred incentive, bonus or reward shall automatically stand forfeited if:\n\n* The employee resigns before payout.\n* The employee serves notice period before payout.\n* The employee absconds.\n* The employee is terminated.\n* The employee violates Company policies.\n* The employee is found involved in misconduct, fraud, data misuse, revenue manipulation, fake admissions or mis-selling.\n\nNo claim shall be entertained for forfeited amounts.\n\n---\n\n## 11. POLICY TRANSITION & REPLACEMENT CLAUSE\n\nThis policy becomes effective from 19 June 2026.\n\nUpon implementation of this policy:\n\n* All previous incentive schemes.\n* All previous bonus structures.\n* All historical reward programs.\n* All verbal commitments.\n* All informal arrangements.\n* All unpublished incentive plans.\n* All previous compensation-linked reward structures.\n\nshall stand automatically withdrawn, superseded and cancelled.\n\nAny pending, unpaid, provisional, projected, accrued or expected incentive, reward or bonus under any previous scheme which has not been approved and released before 19 June 2026 shall automatically lapse and shall not be payable.\n\nOnly performance achieved under this policy on or after 19 June 2026 shall be considered for future incentive and bonus calculations.\n\n---\n\n## 12. MANAGEMENT RIGHTS\n\nThe Company reserves the right to:\n\n* Amend targets.\n* Modify incentive slabs.\n* Revise bonus structures.\n* Suspend incentive programs.\n* Change payout schedules.\n* Introduce new eligibility conditions.\n* Reduce, withhold or cancel incentives.\n* Recover excess payments.\n* Modify performance parameters.\n\nat any time based on business requirements.\n\n---\n\n## 13. FINAL AUTHORITY\n\nThe interpretation, implementation, calculation, adjustment, approval, withholding, recovery and payout of all incentives, bonuses, rewards and recognitions shall remain solely at the discretion of the Management.\n\nThe decision of the Management shall be final, binding and conclusive in all matters relating to this policy.\n\n---\n\n## PORTAL DISCLAIMER\n\nAll incentives, bonuses, rankings, achievements, badges, rewards, revenue figures and payout projections displayed on the employee portal are provisional and subject to admission verification, revenue realization, cancellation review, compliance checks, quality assessment and final management approval.\n\nDisplay of any amount on the portal shall not be construed as a guarantee of payment until formally approved and released by the Company.\n\n*NEW JOINER ELIGIBILITY POLICY*\n\nTo ensure fairness and uniformity in incentive calculations, special eligibility conditions shall apply to newly joined employees.\n\n*New Joiner Eligibility:* Employees joining during an ongoing Monthly, Quarterly, Half-Yearly or Annual contest period shall be eligible for participation only after completing a minimum of 50% of the respective contest duration. Employees joining after completion of 50% of the contest period shall not be eligible for that particular contest cycle and shall become eligible from the next cycle.\n\n*Examples:*\n* Joined on 20th June → Not Eligible for Monthly Contest (June)\n* Joined after 45 days of a Quarter → Not Eligible for that Quarter\n* Joined after 3 months of Half-Yearly Cycle → Not Eligible for that Half-Yearly Contest\n* Joined after 6 months of Annual Cycle → Not Eligible for Annual Contest of that year"
+  },
+  "customDateFilters": [
+    {
+      "id": "period_1781950728137",
+      "name": "Jan 2026",
+      "startDate": "2025-10-15",
+      "endDate": "2026-04-10"
+    },
+    {
+      "id": "period_1781950785590",
+      "name": "July 2026",
+      "startDate": "2026-04-11",
+      "endDate": "2026-09-15"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "req_1781932249145_krmsy8cho",
+    "counsellorName": "Anshika",
+    "counsellorUsername": "anshika05",
+    "periodId": "monthly",
+    "range": "01/06/2026 - 30/06/2026",
+    "target": 275000,
+    "revenue": 254700,
+    "percentage": 92.62,
+    "amount": 1500,
+    "status": "rejected",
+    "comment": "",
+    "requestedAt": "2026-06-20T05:10:49.145Z",
+    "processedAt": "2026-06-20T10:04:50.812Z",
+    "processedBy": "admin"
+  },
+  {
+    "id": "req_1781933725173_opaitjj8i",
+    "counsellorName": "Anshika",
+    "counsellorUsername": "anshika05",
+    "periodId": "doubleStrike",
+    "range": "Occurrence 1",
+    "target": 0,
+    "revenue": 0,
+    "percentage": 100,
+    "amount": 500,
+    "status": "approved",
+    "comment": "",
+    "requestedAt": "2026-06-20T05:35:25.173Z",
+    "processedAt": "2026-06-20T07:11:32.696Z",
+    "processedBy": "admin"
+  },
+  {
+    "id": "req_1781933727459_fhtu7w8b7",
+    "counsellorName": "Anshika",
+    "counsellorUsername": "anshika05",
+    "periodId": "doubleStrike",
+    "range": "Occurrence 2",
+    "target": 0,
+    "revenue": 0,
+    "percentage": 100,
+    "amount": 500,
+    "status": "approved",
+    "comment": "",
+    "requestedAt": "2026-06-20T05:35:27.459Z",
+    "processedAt": "2026-06-20T07:11:50.641Z",
+    "processedBy": "admin"
+  }
+]
